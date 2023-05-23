@@ -13,6 +13,7 @@ show_excerpts: true
 excerpt_separator: <!--more-->
 
 github_url: https://github.com/geo-gta3
+youtube_url: https://www.youtube.com/@geo-gta3
 
 plugins:
   - jekyll-feed
